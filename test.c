@@ -1,4 +1,5 @@
 #include<gmp.h>
+#include<bulini>
 #include<stdio.h>
 void main()
 {
